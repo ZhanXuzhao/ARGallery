@@ -43,8 +43,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b3903e25f884347c7813dbb0fdb34b2e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pictureContainerPrefab: {fileID: 3274393969990665261, guid: c22d82a2cf1f249e888297869cc040ae,
+  picturePrefab: {fileID: 3274393969990665261, guid: c22d82a2cf1f249e888297869cc040ae,
     type: 3}
   column: 4
   row: 3
-  planCount: 3
+  planCount: 1
